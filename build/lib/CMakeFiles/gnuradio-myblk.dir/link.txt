@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libgnuradio-myblk.so -o libgnuradio-myblk.so CMakeFiles/gnuradio-myblk.dir/phase_offset_impl.cc.o -lboost_filesystem -lboost_system -lgnuradio-runtime -lgnuradio-pmt 

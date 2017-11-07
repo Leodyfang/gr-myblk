@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/parallels/gr-myblk/lib/qa_myblk.cc
+qa_myblk.h
+/home/parallels/gr-myblk/lib/qa_myblk.h
+
+/home/parallels/gr-myblk/lib/qa_myblk.h
+gnuradio/attributes.h
+-
+cppunit/TestSuite.h
+-
+
+/home/parallels/gr-myblk/lib/test_myblk.cc
+config.h
+/home/parallels/gr-myblk/lib/config.h
+cppunit/TextTestRunner.h
+-
+cppunit/XmlOutputter.h
+-
+gnuradio/unittests.h
+-
+qa_myblk.h
+/home/parallels/gr-myblk/lib/qa_myblk.h
+iostream
+-
+fstream
+-
+

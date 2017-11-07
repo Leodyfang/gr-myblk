@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/myblk/api.h
+gnuradio/attributes.h
+-
+
+../include/myblk/phase_offset.h
+myblk/api.h
+-
+gnuradio/sync_block.h
+-
+
+/home/parallels/gr-myblk/lib/phase_offset_impl.cc
+config.h
+/home/parallels/gr-myblk/lib/config.h
+gnuradio/io_signature.h
+-
+phase_offset_impl.h
+/home/parallels/gr-myblk/lib/phase_offset_impl.h
+
+/home/parallels/gr-myblk/lib/phase_offset_impl.h
+myblk/phase_offset.h
+-
+

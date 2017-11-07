@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.11">
+  <compounddef id="dir_e1db6b368a1cbda3d5b5574c804b0b8b" kind="dir">
+    <compoundname>myblk</compoundname>
+    <innerfile refid="api_8h">api.h</innerfile>
+    <innerfile refid="phase__offset_8h">phase_offset.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/parallels/gr-myblk/include/myblk/"/>
+  </compounddef>
+</doxygen>

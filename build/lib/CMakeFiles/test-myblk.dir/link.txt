@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/test-myblk.dir/test_myblk.cc.o CMakeFiles/test-myblk.dir/qa_myblk.cc.o  -o test-myblk -rdynamic -lgnuradio-runtime -lgnuradio-pmt -lboost_filesystem -lboost_system -lcppunit -ldl libgnuradio-myblk.so -lgnuradio-runtime -lgnuradio-pmt -lboost_filesystem -lboost_system -Wl,-rpath,/home/parallels/gr-myblk/build/lib 

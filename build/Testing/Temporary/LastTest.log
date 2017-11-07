@@ -1,0 +1,20 @@
+Start testing: Nov 07 19:03 HKT
+----------------------------------------------------------
+1/1 Testing: test_myblk
+1/1 Test: test_myblk
+Command: "/bin/sh" "/home/parallels/gr-myblk/build/lib/test_myblk_test.sh"
+Directory: /home/parallels/gr-myblk/build/lib
+"test_myblk" start time: Nov 07 19:03 HKT
+Output:
+----------------------------------------------------------
+
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_myblk" end time: Nov 07 19:03 HKT
+"test_myblk" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 07 19:03 HKT
